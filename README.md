@@ -1,2 +1,2 @@
-# Data-Analytics-Bootcamp
-Jupyter Notebook 6.0.3  #  Python 3.7  #  Anaconda3 
+# Intro_DataAnalytics
+Course material, exercises, and solutions sets for the Introductory Data Analytics Bootcamp @ Montgomery College
